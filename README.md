@@ -3,6 +3,10 @@
 A Go tool to download and analyze pull requests from GitHub repositories, using Gemini to extract coding knowledge
 and generate style and coding guides.
 
+## Example
+
+Please see [VARNISH.md](VARNISH.md) for an example of the style guide generated from open source Varnish repository.
+
 ## Features
 
 - Download all PRs (open and closed) from a GitHub repository
